@@ -1,0 +1,33 @@
+.container {
+    max-width: 1200px;
+    margin: 10px auto;
+}
+
+#header {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+/* Main */
+#main {
+    position: relative;
+    float: left;
+    width: 700px;
+    margin-top: 20px;
+}
+
+#aside {
+    position: relative;
+    float: right;
+    margin: 20px auto;
+    width: 400px;
+}
+
+#footer {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin: 20px 0;
+    padding-top: 20px;
+}
